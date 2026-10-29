@@ -1,0 +1,91 @@
+Date,Description,Amount,Category,Type,PaymentMode
+2026-03-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-03-02,Weekly groceries 1,2100,Food and Dining,expense,UPI
+2026-03-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-03-06,Freelance design work,8500,Freelance,income,Bank Transfer
+2026-03-08,Metro and bus travel,1450,Transport,expense,UPI
+2026-03-10,Electricity and water,2250,Bills,expense,Net Banking
+2026-03-12,Weekly groceries 2,2250,Food and Dining,expense,Debit Card
+2026-03-14,Streaming subscriptions,650,Entertainment,expense,Credit Card
+2026-03-16,Phone and internet bills,1450,Bills,expense,Net Banking
+2026-03-18,Restaurant meal,1250,Food and Dining,expense,Credit Card
+2026-03-20,Weekly groceries 3,2150,Food and Dining,expense,UPI
+2026-03-23,Pharmacy purchase,850,Healthcare,expense,UPI
+2026-03-25,Household shopping,1850,Shopping,expense,Debit Card
+2026-03-27,Weekly groceries 4,2300,Food and Dining,expense,Cash
+2026-03-29,Fuel and local travel,1250,Transport,expense,Credit Card
+2026-04-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-04-02,Weekly groceries 1,2200,Food and Dining,expense,UPI
+2026-04-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-04-06,Freelance design work,9000,Freelance,income,Bank Transfer
+2026-04-08,Metro and bus travel,1500,Transport,expense,UPI
+2026-04-10,Electricity and water,2350,Bills,expense,Net Banking
+2026-04-12,Weekly groceries 2,2350,Food and Dining,expense,Debit Card
+2026-04-14,Streaming subscriptions,650,Entertainment,expense,Credit Card
+2026-04-16,Phone and internet bills,1450,Bills,expense,Net Banking
+2026-04-18,Restaurant meal,1350,Food and Dining,expense,Credit Card
+2026-04-20,Weekly groceries 3,2250,Food and Dining,expense,UPI
+2026-04-23,Pharmacy purchase,900,Healthcare,expense,UPI
+2026-04-25,Household shopping,1950,Shopping,expense,Debit Card
+2026-04-27,Weekly groceries 4,2400,Food and Dining,expense,Cash
+2026-04-29,Fuel and local travel,1300,Transport,expense,Credit Card
+2026-05-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-05-02,Weekly groceries 1,2300,Food and Dining,expense,UPI
+2026-05-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-05-06,Freelance design work,9500,Freelance,income,Bank Transfer
+2026-05-08,Metro and bus travel,1550,Transport,expense,UPI
+2026-05-10,Electricity and water,2450,Bills,expense,Net Banking
+2026-05-12,Weekly groceries 2,2450,Food and Dining,expense,Debit Card
+2026-05-14,Streaming subscriptions,700,Entertainment,expense,Credit Card
+2026-05-16,Phone and internet bills,1450,Bills,expense,Net Banking
+2026-05-18,Restaurant meal,1450,Food and Dining,expense,Credit Card
+2026-05-20,Weekly groceries 3,2350,Food and Dining,expense,UPI
+2026-05-23,Pharmacy purchase,950,Healthcare,expense,UPI
+2026-05-25,Household shopping,2100,Shopping,expense,Debit Card
+2026-05-27,Weekly groceries 4,2500,Food and Dining,expense,Cash
+2026-05-29,Fuel and local travel,1350,Transport,expense,Credit Card
+2026-06-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-06-02,Weekly groceries 1,2400,Food and Dining,expense,UPI
+2026-06-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-06-06,Freelance design work,10000,Freelance,income,Bank Transfer
+2026-06-08,Metro and bus travel,1600,Transport,expense,UPI
+2026-06-10,Electricity and water,2600,Bills,expense,Net Banking
+2026-06-12,Weekly groceries 2,2550,Food and Dining,expense,Debit Card
+2026-06-14,Streaming subscriptions,700,Entertainment,expense,Credit Card
+2026-06-16,Phone and internet bills,1500,Bills,expense,Net Banking
+2026-06-18,Restaurant meal,1550,Food and Dining,expense,Credit Card
+2026-06-20,Weekly groceries 3,2450,Food and Dining,expense,UPI
+2026-06-23,Pharmacy purchase,1000,Healthcare,expense,UPI
+2026-06-25,Household shopping,2250,Shopping,expense,Debit Card
+2026-06-27,Weekly groceries 4,2600,Food and Dining,expense,Cash
+2026-06-29,Fuel and local travel,1400,Transport,expense,Credit Card
+2026-07-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-07-02,Weekly groceries 1,2500,Food and Dining,expense,UPI
+2026-07-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-07-06,Freelance design work,10500,Freelance,income,Bank Transfer
+2026-07-08,Metro and bus travel,1650,Transport,expense,UPI
+2026-07-10,Electricity and water,2750,Bills,expense,Net Banking
+2026-07-12,Weekly groceries 2,2650,Food and Dining,expense,Debit Card
+2026-07-14,Streaming subscriptions,700,Entertainment,expense,Credit Card
+2026-07-16,Phone and internet bills,1500,Bills,expense,Net Banking
+2026-07-18,Restaurant meal,1650,Food and Dining,expense,Credit Card
+2026-07-20,Weekly groceries 3,2550,Food and Dining,expense,UPI
+2026-07-23,Pharmacy purchase,1050,Healthcare,expense,UPI
+2026-07-25,Household shopping,2400,Shopping,expense,Debit Card
+2026-07-27,Weekly groceries 4,2750,Food and Dining,expense,Cash
+2026-07-29,Fuel and local travel,1450,Transport,expense,Credit Card
+2026-08-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-08-02,Weekly groceries 1,2600,Food and Dining,expense,UPI
+2026-08-04,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-08-06,Freelance design work,11000,Freelance,income,Bank Transfer
+2026-08-08,Metro and bus travel,1700,Transport,expense,UPI
+2026-08-10,Electricity and water,2900,Bills,expense,Net Banking
+2026-08-12,Weekly groceries 2,2800,Food and Dining,expense,Debit Card
+2026-08-14,Streaming subscriptions,750,Entertainment,expense,Credit Card
+2026-08-16,Phone and internet bills,1500,Bills,expense,Net Banking
+2026-08-18,Restaurant meal,1800,Food and Dining,expense,Credit Card
+2026-08-20,Weekly groceries 3,2700,Food and Dining,expense,UPI
+2026-08-23,Pharmacy purchase,1100,Healthcare,expense,UPI
+2026-08-25,Household shopping,2600,Shopping,expense,Debit Card
+2026-08-27,Weekly groceries 4,2950,Food and Dining,expense,Cash
+2026-08-29,Fuel and local travel,1550,Transport,expense,Credit Card

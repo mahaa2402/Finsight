@@ -1,0 +1,4 @@
+Transaction_ID,Date,Type,Category,Subcategory,Description,Amount,Payment_Mode
+1,2026-09-01,Income,Salary,,Monthly Salary,50000,Bank Transfer
+2,2026-09-02,Expense,Food,Restaurant,Dinner,350,UPI
+3,2026-09-03,Expense,Transport,Taxi,City travel,150,Cash

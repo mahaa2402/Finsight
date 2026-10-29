@@ -1,0 +1,43 @@
+Date,Description,Amount,Category,Type,PaymentMode
+2026-09-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-09-02,Weekly groceries,2450,Food and Dining,expense,UPI
+2026-09-03,Metro card recharge,600,Transport,expense,UPI
+2026-09-04,Electricity bill,1850,Bills,expense,Net Banking
+2026-09-05,Freelance design project,12500,Freelance,income,Bank Transfer
+2026-09-06,Weekend lunch,980,Food and Dining,expense,Credit Card
+2026-09-07,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-09-08,Streaming subscription,499,Entertainment,expense,Credit Card
+2026-09-09,Pharmacy purchase,720,Healthcare,expense,UPI
+2026-09-10,Online course fee,2400,Education,expense,Credit Card
+2026-09-11,Taxi ride,430,Transport,expense,UPI
+2026-09-12,Phone bill,799,Bills,expense,Net Banking
+2026-09-13,Restaurant dinner,1650,Food and Dining,expense,Credit Card
+2026-09-14,Refund for returned item,1350,Shopping,income,UPI
+2026-09-15,Household supplies,1280,Shopping,expense,Debit Card
+2026-09-16,Investment dividend,2100,Investments,income,Bank Transfer
+2026-09-17,Fuel refill,2200,Transport,expense,Credit Card
+2026-09-18,Gym membership,1800,Health and Fitness,expense,Credit Card
+2026-09-19,Coffee and snacks,380,Food and Dining,expense,Cash
+2026-09-20,Home internet bill,999,Bills,expense,Net Banking
+2026-09-21,Freelance writing project,8500,Freelance,income,Bank Transfer
+2026-09-22,Movie tickets,760,Entertainment,expense,UPI
+2026-09-23,Doctor appointment,1200,Healthcare,expense,UPI
+2026-09-24,Books and stationery,950,Education,expense,Debit Card
+2026-09-25,Monthly savings transfer,10000,Savings,expense,Bank Transfer
+2026-09-26,Groceries and produce,1920,Food and Dining,expense,Debit Card
+2026-09-27,Clothing purchase,2350,Shopping,expense,Credit Card
+2026-09-28,Bus pass,500,Transport,expense,Cash
+2026-09-29,Water utility bill,430,Bills,expense,UPI
+2026-09-30,Quarterly bonus,15000,Salary,income,Bank Transfer
+2026-10-01,Monthly salary,72000,Salary,income,Bank Transfer
+2026-10-02,Weekly groceries,2180,Food and Dining,expense,UPI
+2026-10-03,Metro card recharge,600,Transport,expense,UPI
+2026-10-04,Electricity bill,1725,Bills,expense,Net Banking
+2026-10-05,Freelance logo project,9800,Freelance,income,Bank Transfer
+2026-10-06,Restaurant lunch,1120,Food and Dining,expense,Credit Card
+2026-10-07,Monthly rent,18000,Housing,expense,Bank Transfer
+2026-10-08,Streaming subscription,499,Entertainment,expense,Credit Card
+2026-10-09,Pharmacy purchase,560,Healthcare,expense,UPI
+2026-10-10,Taxi ride,390,Transport,expense,UPI
+2026-10-11,Phone bill,799,Bills,expense,Net Banking
+2026-10-12,Coffee and breakfast,540,Food and Dining,expense,Cash
